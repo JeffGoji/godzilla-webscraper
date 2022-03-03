@@ -21,12 +21,10 @@ This is a super simple JavaScript/Puppeteer npm based Web Scraper. It scrapes th
 ## Installation:
 
 This application uses node.js and the Puppeteer npm. Download the repository and use "npm install" in the terminal to install the dependicies. 
-Open a terminal and type in "node app.js" to start the program and scrap the website.
 
 ## Usage:
 
-Use the Tech-Blog 9000 to blog about everything in the tech industry that you would like to blog about. As a user you will have a dashboard where you can edit and delete your blog post.
-As a user, you can comment on other blogger's post.
+Open a terminal and type in "node app.js" to start the program and scrap the website.
 
 ## License:
 
