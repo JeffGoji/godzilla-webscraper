@@ -1,7 +1,7 @@
 # Godzilla Webscraper App
 
 
-A simple JavaScript based web scraper that scrapes the Godzilla page on Wikipedia.
+A simple JavaScript based web scraper
 ## Licensing:
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
