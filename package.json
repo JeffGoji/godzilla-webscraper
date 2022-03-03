@@ -1,0 +1,14 @@
+{
+  "name": "javascript-webscraper",
+  "version": "1.0.0",
+  "description": "Godzilla Webscraping app",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Jeffrey Anderson-Lester",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.4.1"
+  }
+}
